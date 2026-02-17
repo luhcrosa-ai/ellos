@@ -1,0 +1,8 @@
+{
+  "name": "Ellos RH - Conectando Talentos",
+  "description": "Uma plataforma moderna de recrutamento e seleção para a Ellos RH, apresentando um painel de vagas dinâmico e assistente de carreira inteligente movido por IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
